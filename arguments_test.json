@@ -1,0 +1,6 @@
+{
+    "arguments" : 
+	[
+        { "name": "Path", "value": "gs://campaign-tutorial/customers.csv" }       
+    ]
+}
